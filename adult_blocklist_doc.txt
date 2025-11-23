@@ -1,1 +1,24 @@
-
+! Title: ⛔Porn Sites BlockLists
+! Updated: 2025-11-23
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/ChowMein47/Porn-Block
+! License: Mozilla Public License Version 2.0
+====================================
+||pornhub.com$doc
+||xvideos.com$doc
+||xhamster.com$doc
+||xnxx.com$doc
+||redtube.com$doc
+||youporn.com$doc
+||tube8.com$doc
+||spankbang.com$doc
+||brazzers.com$doc
+||bangbros.com$doc
+||freeporn.com$doc
+||lust.com$doc
+||sex.com$doc
+||shemalevids.com$doc
+||empflix.com$doc
+||fapdu.com$doc
+||yourpornsite-example.org$doc
+||randompornportal-example.xxx$doc
