@@ -1,5 +1,5 @@
 ! Title: ⛔Anti-Porn Filter 
-! Updated: 2025-11-24
+! Updated: 2025-11-25
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ChowMein47/Safety-Filters
 ! License: Mozilla Public License Version 2.0
