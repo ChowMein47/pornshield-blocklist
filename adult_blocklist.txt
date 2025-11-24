@@ -1,7 +1,7 @@
 ! Title: ⛔Porn Sites BlockLists
 ! Updated: 2025-11-24
 ! Expires: 4 days (update frequency)
-! Homepage: https://github.com/ChowMein47/Porn-Block
+! Homepage: https://github.com/ChowMein47/Safety-Filters
 ! License: Mozilla Public License Version 2.0
 ====================================
 ||pornhub.com$doc
@@ -21,10 +21,10 @@
 ||empflix.com$doc
 ||fapdu.com$doc
 ||yourpornsite-example.org$doc
-||randompornportal-example.xxx$doc
+||bangbros.com$doc
 
 ! REGEX BLOCKING 
-/(porn|porno|xxx|sex|sexual|adult|erotic|fetish|hentai|bdsm|cam|camgirl|escorts?|milf|gaysex|lesbian|hardcore|amateur|nsfw|18\+|jav|pornhub|xvideos|xhamster|xnxx|youporn|bokep|crot|redtube)/$document
+/:\/\/[^\/]*(porn|xxx|sex|adult|erotic|hentai|jav|fetish|bdsm|cam|escort|milf|bokep|crot|nsfw)[^\/]*\./$document
 
 ! WHITELIST
 @@||github.com^$document
