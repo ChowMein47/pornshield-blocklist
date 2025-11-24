@@ -24,4 +24,4 @@
 ||randompornportal-example.xxx$doc
 
 ! REGEX BLOCKING 
-/(porn|porno|xxx|sex|sexual|adult|erotic|fetish|hentai|bdsm|cam|camgirl|escorts?|milf|gaysex|lesbian|hardcore|amateur|nsfw|18\+|jav|pornhub|xvideos|xhamster|xnxx|youporn|bokep|crot |redtube)/$document
+/(porn|porno|xxx|sex|sexual|adult|erotic|fetish|hentai|bdsm|cam|camgirl|escorts?|milf|gaysex|lesbian|hardcore|amateur|nsfw|18\+|jav|pornhub|xvideos|xhamster|xnxx|youporn|bokep|crot|redtube)/$document
