@@ -1,5 +1,5 @@
 ! Title: ⛔Porn Sites BlockLists
-! Updated: 2025-11-23
+! Updated: 2025-11-24
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ChowMein47/Porn-Block
 ! License: Mozilla Public License Version 2.0
