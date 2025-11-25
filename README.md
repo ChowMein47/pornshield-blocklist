@@ -18,8 +18,7 @@ Filter disusun dengan rapi, ringan, dan mudah digunakan.
   * AdGuard
   * AdBlock / AdBlock Plus
   * Brave Browser 
-  * Pi-hole
-  * DNS Sinkhole
+   
 * 📦 **Format murni ABP / AdBlock Syntax (`$doc`)**
 * 🔄 **Update berkala** penambahan domain baru
 
