@@ -1,4 +1,4 @@
-! Title: ⛔Anti-Porn Filter 
+! Title: 🚫Anti-Porn Filter List 
 ! Updated: 2025-11-25
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ChowMein47/Safety-Filters
