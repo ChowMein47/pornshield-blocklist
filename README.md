@@ -80,7 +80,7 @@ Gunakan **Issue** atau **Pull Request** untuk kontribusi.
 Tidak ditujukan untuk sensor politik, pelacakan, atau aktivitas yang melanggar hukum.
 
 * > Filter regex dalam daftar ini **mungkin tidak bekerja optimal di Brave Browser**.  
-> Hal ini karena Brave menggunakan bahasa Rust untuk implementasi AdBlock-nya, sehingga beberapa regex kompleks 
+> Hal ini karena Brave menggunakan bahasa Rust untuk implementasi AdBlock-nya, sehingga beberapa regex kompleks bisa tidak dikenali.Saat ini syntax $doc bekerja optimal di Brave browser 
 
 ---
 
